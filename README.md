@@ -1,4 +1,4 @@
-# Tilt-Repeater-ESP32
+# Tilt Repeater ESP32
 Tilt hydrometer repeater for ESP32 based devices
 - Updated to Support Latest Ardunio IDE
 
