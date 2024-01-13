@@ -2,7 +2,7 @@
 Tilt hydrometer repeater for ESP32 based devices
 - Updated to Support Latest Ardunio IDE
 
-<img width="400" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5">
+<img width="250" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5">
 
 ## Hardware
 - Teyleten Robot ESP32S ESP32 ESP-WROOM-32 Development Board 2.4GHz Dual-Core WiFi +Bluetooth 2 Function Microcontroller for Arduino (ESP32 30P, 3PCS) https://amzn.to/3vwreXF
