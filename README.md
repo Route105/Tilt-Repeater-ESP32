@@ -27,6 +27,10 @@ Tilt hydrometer repeater for ESP32 based devices
 18. You should see your ESP32 with Scanning...40 Devices Found. No Tilts Repeated.
 19. Turn on your tilt and you will see it repeating.
 
+### Tilt Repeater Case
+- walgreens pill case
+<img width="728" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5">
+
 ### TiltBridge on a ESP32
 https://tiltbridge.readthedocs.io/en/master/installation.html
 
