@@ -19,7 +19,7 @@ bool Celsius =      true;       // Use Celcius while logging to serial.
 /*--- INCLUDES ---*/
 #include "BLEDevice.h"
 #include "BLEBeacon.h"
-#include "esp_deep_sleep.h"
+#include "esp_sleep.h"
 
 #ifdef SSD1306_MODULE
   #include "SSD1306.h"
