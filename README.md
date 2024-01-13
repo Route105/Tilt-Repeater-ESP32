@@ -1,6 +1,5 @@
 # Tilt Repeater ESP32
 Tilt hydrometer repeater for ESP32 based devices
-- Updated to Support Latest Ardunio IDE
 
 <img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5">
 
