@@ -4,12 +4,13 @@ Tilt hydrometer repeater for ESP32 based devices
 <img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5">
 
 ## Tilt Repeater Hardware
-- Teyleten Robot ESP32S ESP32 ESP-WROOM-32 Development Board 2.4GHz Dual-Core WiFi +Bluetooth 2 Function Microcontroller for Arduino (ESP32 30P, 3PCS) https://amzn.to/3vwreXF
-- SMALLElectric Micro USB Cable (5-Pack, 6FT) Android Charger, Long Android Phone Charger Cord for Samsung Galaxy S7 S6 Edge J7 S5,Note 5 4,LG 4 K40 K20,MP3,Kindle,Tablet,White https://amzn.to/47AFs6S
+- 1 Pack HiLetgo ESP-WROOM-32 ESP32 ESP-32D Development Board 2.4GHz for Arduino - https://amzn.to/3O3r4x3
+- 3 Pack Teyleten Robot ESP32S ESP32 ESP-WROOM-32 Development Board for Arduino - https://amzn.to/3vwreXF
+- Micro USB Cable (5-Pack, 6FT) https://amzn.to/47AFs6S
 - Tilt Wireless Hydrometer - https://amzn.to/3SitcDE
 - Streamlight 85175 CR123A Lithium Batteries, 2-Pack - https://amzn.to/41Um6Zn
 - Tilt Standard Wrench + Bottle Opener - https://amzn.to/3vE9zNK
-- pill case - 3 inch high
+- Pharmacy Medicine Container Pill Bottle - https://amzn.to/3Siu8rE
 
 ### Tilt Repeater Install Guide
 1. Download Ardunio IDE - https://www.arduino.cc/en/software
