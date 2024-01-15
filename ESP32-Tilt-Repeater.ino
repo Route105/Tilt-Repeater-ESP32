@@ -1,4 +1,6 @@
 // ESP32 Tilt Repeater
+// Forked from Repo By David Gray - https://github.com/N3MIS15/ESP32-Tilt-Repeater
+// Code was updated to support the Latest verison of Arudion IDE
 
 #include "BLEDevice.h"
 #include "BLEBeacon.h"
