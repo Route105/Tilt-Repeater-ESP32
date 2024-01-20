@@ -3,7 +3,7 @@ Tilt hydrometer repeater for ESP32 based devices
 - Forked from Repo By David Gray - https://github.com/N3MIS15/ESP32-Tilt-Repeater
 - Code was updated to support the Latest verison of Arudion IDE
 
-<img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5">
+<img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5"> 
 
 ## Tilt Repeater Hardware
 - 1 Pack HiLetgo ESP-WROOM-32 ESP32 ESP-32D Development Board 2.4GHz for Arduino - https://amzn.to/3O3r4x3
