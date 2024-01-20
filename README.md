@@ -19,16 +19,16 @@ Tilt hydrometer repeater for ESP32 based devices
 2. Download the ESP32-Tilt-Repeater.ino - click on the file in github and download the raw file.
 3. Open the file in Ardunio
 4. Next you want to edit line 8 to change your color. int repeatColour =  0; // Choose Tilt colour to repeat. 0=All, 1=Red, 2=Green, 3=Black, 4=Purple, 5=Orange, 6=Blue, 7=Yellow, 8=Pink.
-5. Connect your ESP32 Board to your PC using your micro usb cable
+5. Connect your ESP32 Board to your computer using your micro usb cable
 6. Choose Select Board and Select other board and port
-7. Arduino IDE Board Types:
-   - HiLetgo ESP-WROOM-32 ESP32 ESP-32D use Board - DOIT ESP32 DEVKIT V1
-   - Teyleten Robot ESP32S use Board - ESP32-WROOM-DA 
+7. Arduino IDE Board Types try either:
+   - ESP32-WROOM-DA 
+   - ESP32 DEVKIT V1 
 11. In Arduino IDE Click Tools
 12. Set Core Debug Level: "None"
 13. Set Erase All Flash Before Sketch Upload:"Disabled"
 14. Set Flash Frequency: "80Mhz"
-15. Set Upload Speed: "921600"
+15. Set your Upload Speed to: "921600" or "115200"
 17. Press and Hold the Boot button on the back side of your board. This enables the upload
 18. Press upload and you will see compiling sketch, continue holding boot button
 19. A black window should open and you will see it compiling.
