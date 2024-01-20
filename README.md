@@ -18,7 +18,7 @@ Tilt hydrometer repeater for ESP32 based devices
 1. Download Ardunio IDE - https://www.arduino.cc/en/software
 2. Download the ESP32-Tilt-Repeater.ino - click on the file in github and download the raw file.
 3. Open the file in Ardunio
-4. Next you want to edit line 8 to change your color. int repeatColour =  0; // Choose Tilt colour to repeat. 0=All, 1=Red, 2=Green, 3=Black, 4=Purple, 5=Orange, 6=Blue, 7=Yellow, 8=Pink.
+4. Next you want to edit line 8 to change your color. int repeatColour =  0; // Choose Tilt color to repeat. 0=All, 1=Red, 2=Green, 3=Black, 4=Purple, 5=Orange, 6=Blue, 7=Yellow, 8=Pink.
 5. Connect your ESP32 Board to your computer using your micro usb cable
 6. Choose Select Board and Select other board and port
 7. Arduino IDE Board Types try either:
