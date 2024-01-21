@@ -1,5 +1,5 @@
-# Tilt Repeater ESP32
-Tilt hydrometer repeater for ESP32 based devices
+# ESP32 Tilt Bluetooth Repeater 
+Tilt hydrometer bluetooth repeater for ESP32 based devices
 - Forked from Repo By David Gray - https://github.com/N3MIS15/ESP32-Tilt-Repeater
 - Code was updated to support the Latest verison of Arudion IDE
 
