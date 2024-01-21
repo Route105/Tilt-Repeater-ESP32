@@ -5,7 +5,7 @@ Tilt hydrometer repeater for ESP32 based devices
 
 <img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5"> 
 
-<a href="https://www.buymeacoffee.com/route105)"><img src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/e2c6eb5c-0b63-47ad-b198-6ff718f4fa5e"></a>
+<a href="https://www.buymeacoffee.com/route105"><img src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/e2c6eb5c-0b63-47ad-b198-6ff718f4fa5e"></a>
 
 
 ## Tilt Repeater Hardware
