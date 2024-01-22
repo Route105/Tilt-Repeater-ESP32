@@ -30,8 +30,8 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 11. In Arduino IDE Click Tools
 12. Set Core Debug Level: "None"
 13. Set Erase All Flash Before Sketch Upload:"Disabled"
-14. Set Flash Frequency: "80Mhz"
-15. Set your Upload Speed to: "921600" or "115200"
+14. Set Flash Frequency: 80Mhz
+15. Set your Upload Speed to: 115200
 17. Press and Hold the Boot button on the back side of your board. This enables the upload
 18. Press upload and you will see compiling sketch, continue holding boot button
 19. A black window should open and you will see it compiling.
