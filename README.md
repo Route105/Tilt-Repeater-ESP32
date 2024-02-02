@@ -44,6 +44,16 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 26. You should see your ESP32 with Scanning...40 Devices Found. No Tilts Repeated.
 27. Turn on your tilt and you will see it repeating.
 
+### Tilt Repeater ESP32 dropping bluetooth connetion
+The esp32 scans for bluetooth devices for a period of time determined by the "SCAN_TIME" variable. By default this is 5 seconds. Increasing the "SCAN_TIME" variable will give the esp32 a better chance of finding bluetooth devices with a weak signal.
+
+The esp32 then goes through all the bluetooth devices is found and filters out any that are not Tilt hydrometers. If any Tilts are found, the esp32 checks if they are the desired colour to repeat (determined by the "repeatColour" variable, 0 being all colours). It then takes that information the Tilt sent and repeats it. After repeating the esp32 goes to sleep for an amount of time, which is determined by the "TIME_TO_SLEEP" variable. The esp resets at this point and starts this sequence of events all over again.
+
+If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by the "fastSleep" variable (with the default settings the result would be 15). This forces the esp32 to scan more often when no tilts are found by the scan.
+
+Increasing the scan time to 15 and decreased Time to Sleep to 30 fixes bluetooth connetion issue
+
+
 ### TiltBridge on a ESP32
 https://tiltbridge.readthedocs.io/en/master/installation.html
 
