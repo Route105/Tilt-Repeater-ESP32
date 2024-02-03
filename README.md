@@ -11,6 +11,7 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 - 3 Pack Teyleten Robot ESP32S ESP32 ESP-WROOM-32 Development Board for Arduino - https://amzn.to/3vwreXF
 - Micro USB Cable (5-Pack, 6FT) https://amzn.to/47AFs6S
 - Tilt Wireless Hydrometer - https://amzn.to/3SitcDE
+- Raspberry Pi 4 8GB Starter Kit - https://amzn.to/4903CcI
 - Streamlight 85175 CR123A Lithium Batteries, 2-Pack - https://amzn.to/41Um6Zn
 - Tilt Standard Wrench + Bottle Opener - https://amzn.to/3vE9zNK
 - Pharmacy Medicine Container Pill Bottle - https://amzn.to/3Siu8rE
@@ -59,6 +60,12 @@ If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by 
 
 > [!TIP]
 >  Example: Increase the scan time to 20 and decrease the time to Sleep to 10
+
+### Tilt Pi
+Tilt Pi is like a local server that uses Bluetooth to log Tilt readings on a regular cadence. For example, I have set mine up to run every 15 minutes and log data to Brewfather. My Fermenters are on one side of my basement brewery while the rasberry pie is on the other. The ESp32 Tilt Repeater allows me to put the Tilt Pi at least 10 - 12ft from the fermenters. Follow the steps listed on the Tilt website to get started. 
+https://tilthydrometer.com/blogs/news/introducing-tilt-pi-an-sd-card-image-download-for-your-raspberry-pi-3-or-zero-w
+<img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/e0f47135-858c-4500-b0e6-0309b69503f1">
+<img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/files/14152537/tilt_pie.pdf>
 
 ### Tilt 3 Point Calibration 
 - 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
