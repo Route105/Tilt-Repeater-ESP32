@@ -66,9 +66,11 @@ Tilt Pi is like a local server "Rasberry PI" that uses Bluetooth to log Tilt rea
 https://tilthydrometer.com/blogs/news/introducing-tilt-pi-an-sd-card-image-download-for-your-raspberry-pi-3-or-zero-w
 <img width="500" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/e0f47135-858c-4500-b0e6-0309b69503f1">
 
+
 <img width="500" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/58ff2b88-3f0e-4859-9a33-62917d62bff5">
 
 
-### Tilt 3 Point Calibration 
+### Tilt 3 Point Device Level Calibration 
+Doing a Tilt Device Level Calibration stores the Calibration data in the tilt. You don't need to add the Calibration values to the APP or Software you use. 
 - 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
 - When you do the Calibration, Start with the 1.12 Solution and then 1.061 Solution then the water.  
