@@ -72,6 +72,7 @@ https://tilthydrometer.com/blogs/news/introducing-tilt-pi-an-sd-card-image-downl
 
 
 ### Tilt 3 Point Device Level Calibration 
-Doing a Tilt Device Level Calibration stores the Calibration data in the tilt. You don't need to add the Calibration values to the APP or Software you use. 
-- 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
-- When you do the Calibration, Start with the 1.12 Solution and then 1.061 Solution then the water.  
+Doing a Tilt Device Level Calibration stores the calibration data in the tilt. You don't need to add the calibration values to the APP or Software you use. 
+- 3 point device level Calibration for your tilt: https://www.youtube.com/watch?v=sechzUDQKVs
+> [!TIP]
+> When you do the Calibration, Start with the 1.12 Solution then 1.061 Solution then the water.  
