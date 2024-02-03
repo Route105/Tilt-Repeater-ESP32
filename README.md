@@ -62,7 +62,6 @@ If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by 
 > [!TIP]
 >    - Increase the scan time to 20 and decreased Time to Sleep to 10 
 
-
 ### Tilt 3 Point Calibration 
 - 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
 - When you do the Calibration, Start with the 1.12 Solution and then 1.061 Solution then the water.  
