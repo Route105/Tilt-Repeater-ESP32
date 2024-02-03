@@ -64,8 +64,9 @@ If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by 
 ### Tilt Pi
 Tilt Pi is like a local server "Rasberry PI" that uses Bluetooth to log Tilt readings on a regular cadence. For example, I have set mine up to run every 15 minutes and log data to Brewfather. My Fermenters are on one side of my brewery while the rasberry pie is on the other connected to a tv. The ESp32 Tilt Repeater allows me to put the Tilt Pi at least 10 - 12ft from my fermenters. Follow the steps listed on the Tilt website to get started. 
 https://tilthydrometer.com/blogs/news/introducing-tilt-pi-an-sd-card-image-download-for-your-raspberry-pi-3-or-zero-w
-<img width="350" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/e0f47135-858c-4500-b0e6-0309b69503f1">
-<img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/58ff2b88-3f0e-4859-9a33-62917d62bff5">
+<img width="500" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/e0f47135-858c-4500-b0e6-0309b69503f1">
+
+<img width="500" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/58ff2b88-3f0e-4859-9a33-62917d62bff5">
 
 
 ### Tilt 3 Point Calibration 
