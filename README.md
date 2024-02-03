@@ -21,7 +21,8 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 1. Download Ardunio IDE - https://www.arduino.cc/en/software
 2. Download the ESP32-Tilt-Repeater.ino - click on the file in github and download the raw file.
 3. Open the file in Ardunio
-4. Next you want to edit line 8 to change your color. int repeatColour =  0; // Choose Tilt color to repeat. 0=All, 1=Red, 2=Green, 3=Black, 4=Purple, 5=Orange, 6=Blue, 7=Yellow, 8=Pink.
+> [!IMPORTANT]
+> 4. Next you want to edit line 8 to change your color. int repeatColour =  0; // Choose Tilt color to repeat. 0=All, 1=Red, 2=Green, 3=Black, 4=Purple, 5=Orange, > 6=Blue, 7=Yellow, 8=Pink.
 5. Connect your ESP32 Board to your computer using your micro usb cable
 6. Choose Select Board and Select other board and port
 7. Arduino IDE Board Types try either:
@@ -63,5 +64,6 @@ If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by 
 
 
 ### Tilt 3 Point Calibration 
-- 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
-- When you do the Calibration, Start with the 1.12 Solution and then 1.061 Solution then the water.  
+> [!TIP]
+> - 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
+> - When you do the Calibration, Start with the 1.12 Solution and then 1.061 Solution then the water.  
