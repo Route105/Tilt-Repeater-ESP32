@@ -58,7 +58,7 @@ The esp32 then goes through all the bluetooth devices is found and filters out a
 If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by the "fastSleep" variable (with the default settings the result would be 15). This forces the esp32 to scan more often when no tilts are found by the scan.
 
 > [!TIP]
->    - Increase the scan time to ** and decrease the time to Sleep to **
+>  Example: Increase the scan time to 20 and decrease the time to Sleep to 10
 
 ### Tilt 3 Point Calibration 
 - 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
