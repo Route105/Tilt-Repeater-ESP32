@@ -46,7 +46,7 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 
 I found using a clip to press and Hold the Boot button while uploading your sketch. 
 
-<img width="225" alt="Case" https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/b1b991fb-9908-4514-91d6-6e1cf54f8588)> 
+<img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/b1b991fb-9908-4514-91d6-6e1cf54f8588"> 
 
 
 ### Tilt Repeater ESP32 dropping bluetooth connetion
