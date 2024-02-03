@@ -44,8 +44,8 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 26. You should see your ESP32 with Scanning...40 Devices Found. No Tilts Repeated.
 27. Turn on your tilt and you will see it repeating.
 
-I found using a clip to press and Hold the Boot button while uploading your sketch. 
 
+I found using a clip to press and hold the boot button while uploading your sketch. 
 <img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/b1b991fb-9908-4514-91d6-6e1cf54f8588"> 
 
 
