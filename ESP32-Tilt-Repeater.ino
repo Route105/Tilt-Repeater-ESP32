@@ -2,6 +2,8 @@
 // Forked from Repo By David Gray - https://github.com/N3MIS15/ESP32-Tilt-Repeater
 // esp_deep_sleep.h has been depreciated. Updated "esp_sleep.h" 
 // Support the Latest verison of Arudion IDE
+// Updated SCAN_TIME from 5 to 15
+// Updated TIME_TO_SLEEP from 60 to 30
 
 #include "BLEDevice.h"
 #include "BLEBeacon.h"
