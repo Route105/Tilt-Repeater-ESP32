@@ -54,9 +54,6 @@ If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by 
 Try Increasing the scan time to 15 and decreased Time to Sleep to 30 
 
 
-### TiltBridge on a ESP32
-https://tiltbridge.readthedocs.io/en/master/installation.html
-
 ### Tilt 3 Point Calibration 
 - 3 point device level Calibration for your tilt https://www.youtube.com/watch?v=sechzUDQKVs
 - When you do the Calibration, Start with the 1.12 Solution and then 1.061 Solution then the water.  
