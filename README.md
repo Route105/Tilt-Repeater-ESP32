@@ -1,7 +1,8 @@
 # ESP32 Tilt Bluetooth Repeater :beers:
 Tilt hydrometer bluetooth repeater for ESP32 based devices
 - Forked from Repo By David Gray - https://github.com/N3MIS15/ESP32-Tilt-Repeater
-- Code was updated to support the Latest verison of Arudion IDE
+- Supports the Latest verison of Arudion IDE
+- Tilt Repeater dropping bluetooth connetion is now fixed
 
 <img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/38e280b4-9aa3-4b2e-b4e7-b8b6f13611d5">
 
@@ -15,7 +16,6 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 - Streamlight 85175 CR123A Lithium Batteries, 2-Pack: https://amzn.to/41Um6Zn
 - Tilt Standard Wrench + Bottle Opener: https://amzn.to/3vE9zNK
 - Pharmacy Medicine Container Pill Bottle: https://amzn.to/3Siu8rE
-- Brewfarther: https://brewfather.app/
 
 -----
 ### Tilt Repeater Install Guide
@@ -48,7 +48,7 @@ Tilt hydrometer bluetooth repeater for ESP32 based devices
 27. Turn on your tilt and you will see it repeating.
 
 > [!TIP]
-> use clip to press and hold the boot button while uploading your sketch. 
+> Use clip to press and hold the boot button while uploading your sketch. 
 
 <img width="225" alt="Case" src="https://github.com/Route105/Tilt-Repeater-ESP32/assets/96628531/b1b991fb-9908-4514-91d6-6e1cf54f8588">
 
@@ -62,7 +62,7 @@ The esp32 then goes through all the bluetooth devices is found and filters out a
 If no Tilts are found by the scan, the "TIME_TO_SLEEP" variable gets divided by the "fastSleep" variable (with the default settings the result would be 15). This forces the esp32 to scan more often when no tilts are found by the scan.
 
 > [!TIP]
->  Example: Increase the scan time to 20 and decrease the time to Sleep to 10
+>  Increase the scan time to 20 and decrease the time to Sleep to 10
 
 -----
 ### Tilt Pi
@@ -79,4 +79,4 @@ https://tilthydrometer.com/blogs/news/introducing-tilt-pi-an-sd-card-image-downl
 Doing a Tilt Device Level Calibration stores the calibration data in the tilt. You don't need to add the calibration values to the APP or Software you use. 
 - 3 point device level Calibration for your tilt: https://www.youtube.com/watch?v=sechzUDQKVs
 > [!TIP]
-> When you do the Calibration, Start with the 1.12 Solution then 1.061 Solution then the water.  
+> When you do the calibration, Start with the 1.12 Solution then 1.061 Solution then the water.  
