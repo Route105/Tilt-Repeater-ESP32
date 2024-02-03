@@ -8,8 +8,8 @@
 #include "esp_sleep.h"
 
 // User Settings
-int SCAN_TIME = 5;       // Duration to scan for bluetooth devices (in seconds)
-int TIME_TO_SLEEP = 60;  // Duration ESP32 will go to sleep between scans (in seconds)
+int SCAN_TIME = 20;       // Duration to scan for bluetooth devices (in seconds) - 5 is default value
+int TIME_TO_SLEEP = 10;  // Duration ESP32 will go to sleep between scans (in seconds) - 60 is the default value
 int fastSleep = 4;       // Scan more often if no Tilts are found. TIME_TO_SLEEP(60) / fastSleep(4) = scan every 15 seconds. Use 0 to disable.
 int repeatColour = 0;    // Choose Tilt colour to repeat. 0=All, 1=Red, 2=Green, 3=Black, 4=Purple, 5=Orange, 6=Blue, 7=Yellow, 8=Pink.
 bool Celsius = true;     // Use Celcius while logging to serial.
